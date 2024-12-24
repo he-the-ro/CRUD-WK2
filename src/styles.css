@@ -33,7 +33,7 @@ body {
   }
   
   .post-item button {
-    background: #0284c7;
+    background: #0e8032;
     color: #fff;
     border: none;
     padding: 7px 10px;
@@ -42,7 +42,7 @@ body {
   }
   
   .post-item button:hover {
-    background: #0369a1;
+    background: #01532d;
   }
   
   .post-form {
