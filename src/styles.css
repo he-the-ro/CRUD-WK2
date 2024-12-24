@@ -76,7 +76,7 @@ body {
   }
   
   .post-form button {
-    background: #0284c7;
+    background: #0e8032;
     color: #fff;
     border: none;
     padding: 8px 12px;
@@ -85,5 +85,5 @@ body {
   }
   
   .post-form button:hover {
-    background: #0369a1;
+    background: #01532d;
   }
